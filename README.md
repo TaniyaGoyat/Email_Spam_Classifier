@@ -43,3 +43,12 @@ Built with Python, scikit-learn, and Streamlit for an interactive web-based inte
 ---
 
 ## 📂 Folder Structure
+Email-Spam-Classifier/
+│
+├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks for EDA & model training
+├── app.py # Streamlit app script
+├── model.pkl # Trained model file
+├── vectorizer.pkl # TF-IDF vectorizer file
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
